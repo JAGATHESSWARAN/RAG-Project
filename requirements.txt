@@ -1,0 +1,16 @@
+streamlit
+
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+
+sentence-transformers
+faiss-cpu
+
+pypdf
+python-docx
+pandas
+openpyxl
+xlrd
