@@ -16,4 +16,4 @@ A simple Retrieval-Augmented Generation (RAG) chatbot built with LangChain and S
 ## Folder Structure
 - app.py: Main script
 - requirements.txt: Dependencies
-- uploads/: For temporary file storage (created at runtime)
+- uploads/: For temporary file storage (created at runtime)"# RAG-Project" 
